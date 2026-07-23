@@ -16,7 +16,7 @@ public class ifElse {
 			System.out.println("Enjoy the Sunlight. ");
 		}
 			else {
-				System.out.println("Enter Yes or No ");
+				System.out.println("Enter Yes or No : ");
 			}
 	}
 

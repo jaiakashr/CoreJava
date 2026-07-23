@@ -19,7 +19,7 @@ public class LoopStatement {
 		
 		int k=1;
 		do {
-			System.out.println("Akash");
+			System.out.println("Akash ");
 			k = k+1;
 		}while(k<=4);
 	}	
