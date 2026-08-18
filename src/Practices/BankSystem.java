@@ -74,7 +74,7 @@ public class BankSystem {
 
 }
 
-//
+// OOPS Explanation in this program.
 //Inheritance	--->  SavingsAccount extends BankAccount
 //Encapsulation ...>  private fields + getters/setters
 //Abstraction	--->  abstract calculateInterest()
