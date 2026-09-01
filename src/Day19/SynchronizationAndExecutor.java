@@ -44,14 +44,8 @@ public class SynchronizationAndExecutor {
 
         executor.shutdown();
 
-        executor.awaitTermination(
-            10,
-            TimeUnit.SECONDS
-        );
+        executor.awaitTermination(10, TimeUnit.SECONDS );
 
-        System.out.println(
-            "Final count: " +
-            counter.getCount()
-        );
+        System.out.println("Final count: " +counter.getCount());
     }
 }
